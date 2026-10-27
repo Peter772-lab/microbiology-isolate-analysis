@@ -1,0 +1,6 @@
+"name,gram_stain,replicate_1,replicate_2,replicate_3"
+"E. coli,Gram-negative,18,16,17"
+"S. aureus,Gram-positive,24,23,25"
+"P. aeruginosa,Gram-negative,12,13,11"
+"K. pneumoniae,Gram-negative,8,9,7"
+"B. subtilis,Gram-positive,21,20,22"
