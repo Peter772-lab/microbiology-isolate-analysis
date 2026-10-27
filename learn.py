@@ -370,11 +370,6 @@ if gram_negative_mean is not None and gram_positive_mean is not None:
 else:
     print("At least one group has no valid mean for comparison.")
 
-
-print("Quality check:", isolate["quality_check"])
-print(check_mean_zone(None))
-
-
 # ==================================================
 # 11. EXPORT RESULTS TO CSV
 # ==================================================
