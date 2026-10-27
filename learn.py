@@ -174,7 +174,6 @@ for isolate in isolates2:
         f"Mean zone: {mean_text} | "
         f"Interpretation: {isolate['interpretation']}"
     )
-    print("Quality check:", isolate["quality_check"])
 
 # ==================================================
 # 6. HIGHEST AND LOWEST MEAN ZONES
